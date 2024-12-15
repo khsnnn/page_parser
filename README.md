@@ -47,6 +47,3 @@
    python consumer.py
    ```
    **Consumer** будет работать в фоновом режиме и автоматически обрабатывать ссылки, полученные из очереди.
-# page_parser
-# page_parser
-# page_parser
